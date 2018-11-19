@@ -3,6 +3,11 @@
   posted_by: 'Kristian'
   url: 'https://byteconf.com'
 
+- name: 'Neck'
+  description: "If you drive a car from the left side to the right side of this dudes neck you won't make it to the other side until necks week."
+  posted_by: 'Chris'
+  url: 'https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi5hr_6hOHeAhUdHTQIHbmZCtsQjRx6BAgBEAU&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFOmpd-PFXKw&psig=AOvVaw2V7OVNgT9TE6VCoJ9JnF6o&ust=1542736846029390'
+
 - name: 'A link'
   description: 'A super awesome link'
   posted_by: 'Kevin'
