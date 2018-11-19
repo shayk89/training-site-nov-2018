@@ -7,3 +7,8 @@
   description: 'A super awesome link'
   posted_by: 'Kevin'
   url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
+
+- name: 'A link'
+description: 'Music to lift ya spirits'
+posted_by: 'James'
+url: 'https://www.youtube.com/watch?v=Gl9GtO_vQxw'
