@@ -1,4 +1,9 @@
-- name: "Byteconf"
-  description: "Free developer conferences for everyone"
-  posted_by: "Kristian"
-  url: "https://byteconf.com"
+- name: 'Byteconf'
+  description: 'Free developer conferences for everyone'
+  posted_by: 'Kristian'
+  url: 'https://byteconf.com'
+
+- name: 'A link'
+  description: 'A super awesome link'
+  posted_by: 'Kevin'
+  url: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ'
